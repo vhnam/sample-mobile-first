@@ -1,0 +1,23 @@
+{
+  "name": "sample-mobile-first",
+  "version": "1.0.0",
+  "description": "Sample for Mobile First",
+  "scripts": {
+    "start": "http-server",
+    "watch": "webpack --watch --mode=development"
+  },
+  "author": "Nam Vo",
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.0.2",
+    "file-loader": "^6.0.0",
+    "http-server": "^0.12.3",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
+}
