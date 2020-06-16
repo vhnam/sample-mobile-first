@@ -4700,6 +4700,9 @@ body {
   font-size: 1.125rem;
   font-weight: 400;
 }
+.navigation__description--small {
+  font-size: 0.625rem;
+}
 @media (min-width: 768px) {
   .banner__banner {
     padding: 3rem 0;
