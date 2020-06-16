@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample for Mobile First",
   "scripts": {
-    "start": "http-server",
+    "start": "http-server -g",
     "watch": "webpack --watch --mode=development"
   },
   "author": "Nam Vo",
