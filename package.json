@@ -4,6 +4,7 @@
   "description": "Sample for Mobile First",
   "scripts": {
     "start": "node server.js",
+    "start-push": "NODE_ENV=production NODE_PORT=3000 node server.js",
     "watch": "webpack --watch --mode=development"
   },
   "author": "Nam Vo",

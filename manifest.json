@@ -1,0 +1,114 @@
+{
+  "css": [
+    {
+      "type": "text/css",
+      "path": "/assets/css/bootstrap.min.css"
+    },
+    {
+      "type": "text/css",
+      "path": "/assets/css/app.min.css"
+    }
+  ],
+  "js": [
+    {
+      "type": "application/javascript",
+      "path": "/assets/js/jquery-3.5.1.slim.min.js"
+    },
+    {
+      "type": "application/javascript",
+      "path": "/assets/js/popper.min.js"
+    }
+  ],
+  "img": [
+    {
+      "type": "image/png",
+      "path": "/assets/img/banner.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/favicon.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/like.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/shopify-gold.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/shopify-logo.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/shopify-plus.png"
+    },
+    {
+      "type": "image/png",
+      "path": "/assets/img/worldwide.png"
+    }
+  ],
+  "fonts": [
+    {
+      "type": "font/eot",
+      "path": "/assets/webfonts/fa-brands-400.eot"
+    },
+    {
+      "type": "image/svg+xml",
+      "path": "/assets/webfonts/fa-brands-400.svg"
+    },
+    {
+      "type": "font/ttf",
+      "path": "/assets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "type": "font/woff",
+      "path": "/assets/webfonts/fa-brands-400.woff"
+    },
+    {
+      "type": "font/woff2",
+      "path": "/assets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "type": "font/eot",
+      "path": "/assets/webfonts/fa-regular-400.eot"
+    },
+    {
+      "type": "image/svg+xml",
+      "path": "/assets/webfonts/fa-regular-400.svg"
+    },
+    {
+      "type": "font/ttf",
+      "path": "/assets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "type": "font/woff",
+      "path": "/assets/webfonts/fa-regular-400.woff"
+    },
+    {
+      "type": "font/woff2",
+      "path": "/assets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "type": "font/eot",
+      "path": "/assets/webfonts/fa-solid-900.eot"
+    },
+    {
+      "type": "image/svg+xml",
+      "path": "/assets/webfonts/fa-solid-900.svg"
+    },
+    {
+      "type": "font/ttf",
+      "path": "/assets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "type": "font/woff",
+      "path": "/assets/webfonts/fa-solid-900.woff"
+    },
+    {
+      "type": "font/woff2",
+      "path": "/assets/webfonts/fa-solid-900.woff2"
+    }
+  ]
+}
