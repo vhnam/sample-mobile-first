@@ -25,3 +25,8 @@ Open terminal #2
 ```bash
 npm run watch
 ```
+
+## Referrences
+
+https://expressjs.com/en/advanced/best-practice-performance.html
+https://webapplog.com/http2-node/
